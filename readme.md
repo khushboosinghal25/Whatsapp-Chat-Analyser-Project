@@ -13,7 +13,7 @@ A Streamlit application to analyze your WhatsApp chat data. This tool helps you 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/khushboosinghal25/whatsapp-chat-analysis.git
+    git clone https://github.com/khushboosinghal25/Whatsapp-Chat-Analyser-Project.git
     cd whatsapp-chat-analysis
     ```
 
